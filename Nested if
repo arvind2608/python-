@@ -1,0 +1,9 @@
+total=int(input("enter total"))
+if total>400:
+   tamil=int(input("enter Tamil mark"))
+   if tamil>90:
+      print ("Great")
+   else:
+      print("Try best in next exam")
+else:
+      print("OK thanks")
